@@ -217,6 +217,3 @@ if ss:
     else:
         print('')
 
-
-st.markdown('---')
-st.markdown('Made with :heart: by [Sahil Choudhary](https://www.sahilchoudhary.ml/)')
